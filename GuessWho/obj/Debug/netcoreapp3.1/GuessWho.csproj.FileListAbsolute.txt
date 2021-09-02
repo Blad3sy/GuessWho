@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.exe
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.deps.json
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.runtimeconfig.json
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.runtimeconfig.dev.json
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.dll
+C:\Users\david\source\repos\GuessWho\GuessWho\bin\Debug\netcoreapp3.1\GuessWho.pdb
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.AssemblyInfo.cs
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.dll
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.pdb
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.genruntimeconfig.cache
+C:\Users\david\source\repos\GuessWho\GuessWho\obj\Debug\netcoreapp3.1\GuessWho.GeneratedMSBuildEditorConfig.editorconfig
